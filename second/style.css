@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+}
+
+.bar-wrapper {
+	width: 100%;
+}
+
+.blue-bar {
+	background-color: #4e92df;
+	height: 800px;
+	width: 33.3%;
+	display: inline-block;
+	float: left;
+
+}
+
+.aqua-bar {
+	background-color: #58e2c2;
+	height: 800px;
+	width: 33.3%;
+	display: inline-block;
+	float: left;
+
+}
+
+.green-bar {
+	background-color: #b9e78b;
+	height: 800px;
+	width: 33.3%;
+	display: inline-block;
+	float: left;
+
+
+}
+
+.image-placeholder {
+	background-color: #ce0b24;
+	width: 33.3%;
+	height: 200px;
+	bottom: 0;
+	position: fixed;
+	text-align: center;
+}
+
+.placeholder-text {
+	color: white;
+	font-size: 28px;
+	font-family: sans-serif;
+	padding-top: 45px;
+}
